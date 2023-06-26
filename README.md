@@ -6,3 +6,6 @@
 # endeavor = ప్రయత్నం
 # tenure = పదవీకాలం
 # depicted = చిత్రీకరించబడింది
+# Decisiveness = the ability to make decisions quickly and effectively.
+# 
+# 
