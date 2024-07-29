@@ -1,5 +1,6 @@
 # English
 
+# delve = పరిశోధించు
 # contraty = విరుద్ధంగా, opposit
 # adequate = తగినంత
 # I had to assess = నేను అంచనా వేయవలసి వచ్చింది
