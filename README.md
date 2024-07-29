@@ -8,4 +8,4 @@
 # depicted = చిత్రీకరించబడింది
 # Decisiveness = the ability to make decisions quickly and effectively.
 # daunting = కష్టమైన
-# 
+# impulse = ప్రేరణ 
