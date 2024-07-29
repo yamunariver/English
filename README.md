@@ -1,5 +1,6 @@
 # English
 
+# enlisted = చేర్చుకున్నారు
 # persuaded = ఒప్పించాడు
 # contraty = విరుద్ధంగా, opposit
 # adequate = తగినంత
