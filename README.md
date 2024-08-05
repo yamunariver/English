@@ -15,3 +15,4 @@
 
 #  Tell them what you did to turn the situation around. 
 #  they will be like that until will they get you know you better
+#  In the first couple times I was litle bit ` `
