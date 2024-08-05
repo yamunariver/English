@@ -18,6 +18,7 @@
 ## `ON` with less specific locations
 ## `IN` with bigger locations
 ## we use `IN` to talk about enclosed spaces
+## we use `ON` with words that represents a `Surface`
 
 #  Tell them what you did to turn the situation around. 
 #  they will be like that until will they get you know you better
