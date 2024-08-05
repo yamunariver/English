@@ -19,3 +19,4 @@
 #  I'm original from india ...but now I'm based in `country name`
 # that's basically what i do = ప్రాథమికంగా నేను చేసేది అదే
 # that's basically you have do it first = ప్రాథమికంగా మీరు దీన్ని మొదట చేయాలి
+# I work for `company name` in the `Technical Depertment`
