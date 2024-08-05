@@ -17,3 +17,5 @@
 #  they will be like that until will they get you know you better
 #  In the first couple times I was litle bit ` `, then again I got used to it
 #  I'm original from india ...but now I'm based in `country name`
+# that's basically what i do = ప్రాథమికంగా నేను చేసేది అదే
+# that's basically you have do it first = ప్రాథమికంగా మీరు దీన్ని మొదట చేయాలి
