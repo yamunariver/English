@@ -17,7 +17,10 @@
 ## `IT` with Specific locations 
 ## `ON` with less specific locations
 ## `IN` with bigger locations
+
+## `IN` is used with means of transportation where you can't stand up
 ## we use `IN` to talk about enclosed spaces
+
 ## we use `ON` with words that represents a `Surface`
 ### `ON THE TABLE`
 ### `ON THE WALL`
