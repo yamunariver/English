@@ -12,6 +12,12 @@
 # daunting = కష్టమైన
 # 
 
+# IT, On , In
+
+`IT` with Specific locations 
+`ON` with less specific locations
+`IN` with bigger locations
+
 
 #  Tell them what you did to turn the situation around. 
 #  they will be like that until will they get you know you better
