@@ -14,10 +14,10 @@
 
 # IT, On , In
 
-`IT` with Specific locations 
-`ON` with less specific locations
-`IN` with bigger locations
-
+## `IT` with Specific locations 
+## `ON` with less specific locations
+## `IN` with bigger locations
+## we use in to talk about enclosed spaces
 
 #  Tell them what you did to turn the situation around. 
 #  they will be like that until will they get you know you better
