@@ -19,6 +19,12 @@
 ## `IN` with bigger locations
 ## we use `IN` to talk about enclosed spaces
 ## we use `ON` with words that represents a `Surface`
+### `ON THE TABLE`
+### `ON THE WALL`
+### `ON THE FLOOR`
+## we use `ON` to talk about `LEFT` and `RIGHT`
+
+
 
 #  Tell them what you did to turn the situation around. 
 #  they will be like that until will they get you know you better
