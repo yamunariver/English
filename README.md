@@ -47,8 +47,8 @@
 #### I haven't seen him since my mom's birthday
 #### If you're fine with that, I'll go ahead and do it.
 #### He went to another location to resolve the issue.
-#### "We cannot proceed without the consent of the Head of Department." = విభాగాధిపతి అనుమతి లేకుండా మేము చేయలేము
-
+#### We cannot proceed without the consent of the Head of Department. = విభాగాధిపతి అనుమతి లేకుండా మేము చేయలేము
+#### Could you please provide more details about that so I can assess the situation?
 
 
 # few(with thing that we can count)
