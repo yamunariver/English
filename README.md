@@ -45,3 +45,16 @@
 # look which one do i pick
 # I haven't seen him for 2 weeks 
 # I haven't seen him since my mom's birthday
+
+
+
+# few(with thing that we can count)
+apples..
+` `
+
+
+# Less(with thing we can't count)
+water..
+` `
+
+
