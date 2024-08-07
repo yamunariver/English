@@ -11,6 +11,7 @@
 #### Decisiveness = the ability to make decisions quickly and effectively.
 #### daunting = కష్టమైన
 #### consent = అంగీకారము
+#### put forward
 
 # IT, On , In
 
