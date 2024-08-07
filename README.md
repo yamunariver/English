@@ -45,6 +45,7 @@
 #### look which one do i pick
 #### I haven't seen him for 2 weeks 
 #### I haven't seen him since my mom's birthday
+#### If you're fine with that, I'll go ahead and do it.
 
 
 
