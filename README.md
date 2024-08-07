@@ -49,6 +49,7 @@
 #### He went to another location to resolve the issue.
 #### We cannot proceed without the consent of the Head of Department. = విభాగాధిపతి అనుమతి లేకుండా మేము చేయలేము
 #### Could you please provide more details about that so I can assess the situation?
+#### I hope this helps
 
 
 # few(with thing that we can count)
