@@ -50,8 +50,8 @@
 #### We cannot proceed without the consent of the Head of Department. = విభాగాధిపతి అనుమతి లేకుండా మేము చేయలేము
 #### Could you please provide more details about that so I can assess the situation?
 #### I hope this helps
-#### "How can I get in touch with you again?"
-
+#### How can I get in touch with you again?
+#### Actually, I don't have the facility to call your mobile number.
 
 # few(with thing that we can count)
 apples..
