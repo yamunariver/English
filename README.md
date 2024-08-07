@@ -12,6 +12,7 @@
 #### daunting = కష్టమైన
 #### consent = అంగీకారము
 #### put forward
+#### To runover
 
 # IT, On , In
 
