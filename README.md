@@ -59,6 +59,8 @@
 #### nothing i didn't already know
 #### i know how difficult it is to you to reveal to open up
 #### somebody talks on the other person listens and resolve an issue
+#### i was actually just about to come talk to you
+
 
 # few(with thing that we can count)
 apples..
