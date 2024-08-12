@@ -57,7 +57,7 @@
 #### for what possible reason
 #### i can't walk that fast you choose
 #### nothing i didn't already know
-
+#### i know how difficult it is to you to reveal to open up
 # few(with thing that we can count)
 apples..
 ` `
