@@ -65,6 +65,7 @@
 #### i don't want to keep things reminded of all the time
 #### some things don't have a simple explanation
 #### i'm glad we got to talk
+#### i find the various smells fascinating = నేను వివిధ వాసనలు మనోహరంగా భావిస్తున్నాను
 
 
 
