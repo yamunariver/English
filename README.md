@@ -66,6 +66,7 @@
 #### some things don't have a simple explanation
 #### i'm glad we got to talk
 #### i find the various smells fascinating = నేను వివిధ వాసనలు మనోహరంగా భావిస్తున్నాను
+#### i'm not saying, which tape in you into the story
 
 
 
