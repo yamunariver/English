@@ -67,6 +67,7 @@
 #### i'm glad we got to talk
 #### i find the various smells fascinating = నేను వివిధ వాసనలు మనోహరంగా భావిస్తున్నాను
 #### i'm not saying, which tape brings you into the story
+#### if you listening to this tape, your the one of the reasons, why
 
 
 # few(with thing that we can count)
