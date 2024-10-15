@@ -14,7 +14,9 @@
 #### put forward
 #### To runover
 #### eventually = చివరికి
-
+#### ensures = నిర్ధారిస్తుంది
+#### ensuring = భరోసా
+#### i'll ensure == నేను నిర్ధారించుకుంటాను
 
 # IT, On , In
 
