@@ -13,6 +13,8 @@
 #### consent = అంగీకారము
 #### put forward
 #### To runover
+#### eventually = చివరికి
+
 
 # IT, On , In
 
