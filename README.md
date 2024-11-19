@@ -1,5 +1,6 @@
 # English
 
+## relentlessly = కనికరం లేకుండా
 ## trait లక్షణం
 # contraty = విరుద్ధంగా, opposit
 # adequate = తగినంత
