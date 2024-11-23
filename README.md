@@ -1,5 +1,7 @@
 # English
 
+
+## rigorously = కఠినంగా
 ## vigorously = తీవ్రంగా
 ## relentlessly = కనికరం లేకుండా
 ## trait లక్షణం
