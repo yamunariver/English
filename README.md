@@ -1,5 +1,12 @@
 # English
 
+
+## 
+## 
+## 
+## 
+## 
+## inclusion = చేర్చడం
 ## setbacks = ఎదురుదెబ్బలు
 ## rigorously = కఠినంగా
 ## vigorously = తీవ్రంగా
