@@ -1,6 +1,6 @@
 # English
 
-
+## setbacks = ఎదురుదెబ్బలు
 ## rigorously = కఠినంగా
 ## vigorously = తీవ్రంగా
 ## relentlessly = కనికరం లేకుండా
