@@ -20,4 +20,4 @@
 # depicted = చిత్రీకరించబడింది
 # Decisiveness = the ability to make decisions quickly and effectively.
 # daunting = కష్టమైన
-# 
+# he is attuned to this reality = అతను ఈ వాస్తవికతకు అనుగుణంగా ఉన్నాడు
