@@ -4,7 +4,7 @@
 ## 
 ## 
 ## 
-## 
+## extradition = అప్పగింత
 ## entails = కలిగిస్తుంది
 ## inclusion = చేర్చడం
 ## setbacks = ఎదురుదెబ్బలు
