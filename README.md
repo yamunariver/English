@@ -3,7 +3,7 @@
 
 ## 
 ## 
-## 
+## foresee = ముందుచూపు
 ## extradition = అప్పగింత
 ## entails = కలిగిస్తుంది
 ## inclusion = చేర్చడం
