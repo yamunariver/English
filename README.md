@@ -1,6 +1,6 @@
 # English
 
-
+## insightful = అంతర్దృష్టిగల
 ## perceive = గ్రహిస్తారు
 ## intermittent = అడపాదడపా
 ## foresee = ముందుచూపు
