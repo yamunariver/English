@@ -1,5 +1,7 @@
 # English
 
+
+#### meticulous = జాగ్రత్తగా పరిశీలించిన
 #### enlisted = చేర్చుకున్నారు
 #### persuaded = ఒప్పించాడు
 #### contraty = విరుద్ధంగా, opposit
