@@ -1,5 +1,6 @@
 # English
 
+## Persistence = పట్టుదల
 ## insightful = అంతర్దృష్టిగల
 ## perceive = గ్రహిస్తారు
 ## intermittent = అడపాదడపా
