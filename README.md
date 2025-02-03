@@ -1,5 +1,6 @@
 # English
 
+## Intricate = సంక్లిష్టమైన
 ## insightful = అంతర్దృష్టిగల
 ## perceive = గ్రహిస్తారు
 ## intermittent = అడపాదడపా
