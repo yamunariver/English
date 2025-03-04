@@ -1,5 +1,6 @@
 # English
 
+## takeaway = తీసుకెళ్ళడం
 ## when a woman goes through a divorce there is lot of shame and stigma attached to that
 ## insightful = అంతర్దృష్టిగల
 ## perceive = గ్రహిస్తారు
