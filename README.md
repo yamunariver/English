@@ -19,7 +19,7 @@
 ####
 ####
 ####
-####
+#### 
 #### Intricate = సంక్లిష్టమైన 
 #### Alleviate ఉపశమనం కలిగించు, తగ్గించు
 #### Inevitably తప్పనిసరిగా
@@ -65,7 +65,7 @@
 ### we use `ON` to talk about `LEFT` and `RIGHT`
 
 
-
+### I received a ticket for a Microsoft Office installation. Should I proceed with the installation?
 ####  Tell them what you did to turn the situation around. 
 ####  they will be like that until will they get you know you better
 ####  In the first couple times I was litle bit ` `, then again I got used to it
