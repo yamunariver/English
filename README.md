@@ -1,5 +1,15 @@
 # English
 
+The phrase **"ఎదురుదెబ్బలు తగులుతాయి"** can be translated to English as:  
+
+- **"Setbacks will happen."**  
+- **"Obstacles will come your way."**  
+- **"Challenges are inevitable."**  
+- **"You will face difficulties."**  
+- **"Unexpected troubles may arise."**  
+
+Let me know if you need a translation in a specific context! 😊
+
 ## I have triggered a ticket, and the support team will look into it.
 ## behalf = తరపున
 ## takeaway = తీసుకెళ్ళడం
