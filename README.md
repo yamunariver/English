@@ -1,22 +1,23 @@
 # English
 
 The phrase **"ఎదురుదెబ్బలు తగులుతాయి"** can be translated to English as:  
-
+```
 - **"Setbacks will happen."**  
 - **"Obstacles will come your way."**  
 - **"Challenges are inevitable."**  
 - **"You will face difficulties."**  
 - **"Unexpected troubles may arise."**  
+```
 
-- **"we have"**
-- **"we had"**
+```
+- **"we have = మన దగ్గర ఉంది"**
+- **"we had = మా దగ్గర ఉంది"**
 - **" we have to do it = మనం చేయాలి"**
 - **" we had to do it = మనం చేయాల్సి వచ్చింది"**
-
 - **I had to stated that = నేను చెప్పాల్సి వచ్చింది**
 - **i have to stated that = నేను చెప్పాలి**
 - **i stated that = నేను చెప్పాను**
-
+```
   
 ## We had a very insightful discussion regarding DNS services. Consider it done!
 ## Consider it done = అది అయిపోయిందని భావించండి
