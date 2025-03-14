@@ -8,8 +8,8 @@ The phrase **"ఎదురుదెబ్బలు తగులుతాయి"*
 - **"You will face difficulties."**  
 - **"Unexpected troubles may arise."**  
 
-Let me know if you need a translation in a specific context! 😊
 
+## Consider it done = అది అయిపోయిందని భావించండి
 ## certain to happen = ఖచ్చితంగా జరుగుతుంది
 ## I have triggered a ticket, and the support team will look into it.
 ## behalf = తరపున
