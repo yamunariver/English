@@ -1,7 +1,7 @@
 # English
 
 ## I have triggered a ticket, and the support team will look into it.
-##behalf = తరపున
+## behalf = తరపున
 ## takeaway = తీసుకెళ్ళడం
 ## when a woman goes through a divorce there is lot of shame and stigma attached to that
 ## insightful = అంతర్దృష్టిగల
