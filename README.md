@@ -12,7 +12,12 @@ The phrase **"ఎదురుదెబ్బలు తగులుతాయి"*
 - **"we had"**
 - **" we have to do it = మనం చేయాలి"**
 - **" we had to do it = మనం చేయాల్సి వచ్చింది"**
-- 
+
+- **I had to stated that = నేను చెప్పాల్సి వచ్చింది**
+- **i have to stated that = నేను చెప్పాలి**
+- **i stated that = నేను చెప్పాను**
+
+  
 ## We had a very insightful discussion regarding DNS services. Consider it done!
 ## Consider it done = అది అయిపోయిందని భావించండి
 ## certain to happen = ఖచ్చితంగా జరుగుతుంది
