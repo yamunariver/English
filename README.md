@@ -8,7 +8,7 @@ The phrase **"ఎదురుదెబ్బలు తగులుతాయి"*
 - **"You will face difficulties."**  
 - **"Unexpected troubles may arise."**  
 
-
+## We had a very insightful discussion regarding DNS services. Consider it done!
 ## Consider it done = అది అయిపోయిందని భావించండి
 ## certain to happen = ఖచ్చితంగా జరుగుతుంది
 ## I have triggered a ticket, and the support team will look into it.
