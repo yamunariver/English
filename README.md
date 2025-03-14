@@ -8,6 +8,11 @@ The phrase **"ఎదురుదెబ్బలు తగులుతాయి"*
 - **"You will face difficulties."**  
 - **"Unexpected troubles may arise."**  
 
+- **"we have"
+- **"we had"
+- **" we have to do it = మనం చేయాలి"
+- **" we had to do it = మనం చేయాల్సి వచ్చింది"
+- 
 ## We had a very insightful discussion regarding DNS services. Consider it done!
 ## Consider it done = అది అయిపోయిందని భావించండి
 ## certain to happen = ఖచ్చితంగా జరుగుతుంది
