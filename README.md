@@ -10,6 +10,7 @@ The phrase **"ఎదురుదెబ్బలు తగులుతాయి"*
 
 Let me know if you need a translation in a specific context! 😊
 
+## certain to happen = ఖచ్చితంగా జరుగుతుంది
 ## I have triggered a ticket, and the support team will look into it.
 ## behalf = తరపున
 ## takeaway = తీసుకెళ్ళడం
