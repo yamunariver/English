@@ -70,6 +70,23 @@ Despite the difficulties, she remained determined to succeed.
 The system remained down due to a critical error.
 
 ```
+
+```
+Here are some sentences using **"consent"**:  
+
+1. He gave his **consent** to proceed with the project.  
+2. The manager’s **consent** is required before making any changes.  
+3. Without the customer’s **consent**, we cannot share their details.  
+4. She signed the form, giving her **consent** for the data transfer.  
+5. The agreement cannot be finalized without mutual **consent**.  
+6. The doctor cannot perform surgery without the patient’s **consent**.  
+7. Parental **consent** is necessary for minors to participate in the event.  
+8. They acted without my **consent**, which led to misunderstandings.  
+9. The company must obtain written **consent** before using personal information.  
+10. He refused to give his **consent** for the deal.  
+
+Let me know if you need more! 😊
+```
 ## The network issue persists despite multiple troubleshooting attempts.
 ## but I came to know that the
 ## We had a very insightful discussion regarding DNS services. Consider it done!
