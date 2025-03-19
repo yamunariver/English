@@ -39,7 +39,7 @@ Or, more naturally:
 "I kindly request you to come tomorrow."  
 "Please come tomorrow." (More polite and natural)
 ```
-  
+## but I came to know that the
 ## We had a very insightful discussion regarding DNS services. Consider it done!
 ## Consider it done = అది అయిపోయిందని భావించండి
 ## certain to happen = ఖచ్చితంగా జరుగుతుంది
