@@ -24,6 +24,7 @@ The phrase **"ఎదురుదెబ్బలు తగులుతాయి"*
 ## certain to happen = ఖచ్చితంగా జరుగుతుంది
 ## I have triggered a ticket, and the support team will look into it.
 ## behalf = తరపున
+## I am responsible on his behalf. నేను అతని తరపున బాధ్యత వహిస్తాను.
 ## takeaway = తీసుకెళ్ళడం
 ## when a woman goes through a divorce there is lot of shame and stigma attached to that
 ## insightful = అంతర్దృష్టిగల
