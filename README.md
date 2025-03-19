@@ -1,7 +1,18 @@
 # English
 
-The phrase **"ఎదురుదెబ్బలు తగులుతాయి"** can be translated to English as:  
 ```
+Can I come tomorrow to resolve the issue?  
+
+Or, more politely:  
+
+- "Would it be convenient for me to come tomorrow to resolve the issue?"  
+- "Shall I come tomorrow to resolve the issue?"  
+- "Would you like me to come tomorrow to resolve the issue?"
+```
+
+```
+The phrase **"ఎదురుదెబ్బలు తగులుతాయి"** can be translated to English as:  
+
 - Setbacks will happen. 
 - Obstacles will come your way.
 - Challenges are inevitable.
