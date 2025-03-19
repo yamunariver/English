@@ -18,6 +18,16 @@ The phrase **"ఎదురుదెబ్బలు తగులుతాయి"*
 - i have to stated that = నేను చెప్పాలి
 - i stated that = నేను చెప్పాను
 ```
+
+```
+Tomorrow, I request you to come.  
+
+Or, more naturally:  
+
+"I request you to come tomorrow."  
+"I kindly request you to come tomorrow."  
+"Please come tomorrow." (More polite and natural)
+```
   
 ## We had a very insightful discussion regarding DNS services. Consider it done!
 ## Consider it done = అది అయిపోయిందని భావించండి
