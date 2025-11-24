@@ -17,7 +17,7 @@
 ####
 
 ####
-####
+#### utterly పూర్తిగా
 #### eternal శాశ్వతమైన
 #### he didn't come out of the blue = అతను అకస్మాత్తుగా రాలేదు
 #### Intricate = సంక్లిష్టమైన 
